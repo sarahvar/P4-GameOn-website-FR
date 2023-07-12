@@ -4,4 +4,3 @@
 3. Il n'y a aucune dépendance ;
 4. Vous ne devez utiliser que du CSS personnalisé et du JavaScript pur, sans jQuery, Bootstrap ou autre librairie.
 # P4-avant-soutenance
-# P4-avant-soutenance
